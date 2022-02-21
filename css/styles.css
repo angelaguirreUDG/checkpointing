@@ -1,0 +1,29 @@
+*{
+    font-family: 'Open Sans';
+}
+
+h1{
+    text-align: center;
+}
+
+#editorjs {
+    border: 1px solid black;
+    padding: 2rem;
+    margin: 5rem;
+}
+
+body{
+    background-color: #ECFEE8;
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 5rem;
+}
